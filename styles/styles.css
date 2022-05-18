@@ -6,6 +6,10 @@ body {
     line-height: 1.5;
 }
 
+.banner {
+    border-radius: 8%;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -27,23 +31,6 @@ body {
     top: 50px;
     width: 100%;
 }
-
-
-/* .menu2 {
-    float: right;
-    margin-top: 10px;
-}
-
-.menu2 a {
-    position: relative;
-    color: white;
-    text-decoration: none;
-    right: 10px;
-}
-
-.menu2 a:hover {
-    background: rgb(14, 202, 213, 0.5);
-} */
 
 .ContenedorNav {
     width: 100%;
@@ -118,7 +105,7 @@ body {
 
 #Principal {
     position: absolute;
-    top: 75px;
+    top: 85px;
     left: 30px;
     width: 68%;
 }
